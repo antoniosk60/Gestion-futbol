@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Canchas de Fútbol",
+  "description": "Plataforma de autogestión de canchas de fútbol rápido, con reservas integradas, promociones, galería interactiva, notificaciones y panel de administración responsivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
