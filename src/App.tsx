@@ -132,7 +132,7 @@ export default function App() {
               ⚽
             </div>
             <div className="text-left leading-none">
-              <span className="text-base font-black text-white uppercase tracking-wider block">GOLEADA FC</span>
+              <span className="text-base font-black text-white uppercase tracking-wider block">Tribol</span>
               <span className="text-[9px] text-emerald-400 font-mono tracking-widest block uppercase font-bold">Fútbol Rápido</span>
             </div>
           </div>
